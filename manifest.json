@@ -1,0 +1,26 @@
+{
+  "New item": {
+    "name": "Privateer Island",
+    "short_name": "PI",
+    "description": "The unofficial destination for Privateer fans",
+    "start_url": "/",
+    "id": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#01081a",
+    "theme_color": "#01081a",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5aYrrouK4KRBFAk7MPARZYkWJ-14S-srX3GOi74bhgGHBK-rLFC6ZBezq2dJwPBWZQ2EqpDWLMULeqURWyioKzcMxI-OGm6rBcZA306alnF5Syn85IxdqItOY9uZR4PrrlucRGnjvGpEfzi9xF9V63maGDU0II4wEIRn_sb0UtLbViD3c5uBkVYzei58/s1600/pi-app-icon192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCch52RZX883l5MHkoIVjr79eMSEouomxcoWpGr-lkk8fKuaQpKQ-dIuaw-StU9Bizc_HGW8q0S9e4YRXyfzcvWUfp6P7gMquOP5spuZEfU96Su58U8Y0_zHzJmiBF6WGjGNe79wYM2mIpwsSnX6ovrgali_1gtXK7tOpXO9TeMELnQDf6CaXKMPIft1U/s320/pi-app-icon512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+}
